@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "358665474599",
+    "project_id": "parcelgenie-f53f6",
+    "storage_bucket": "parcelgenie-f53f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358665474599:android:4e5c4c2f6f534ceb34f402",
+        "android_client_info": {
+          "package_name": "com.parcel_genie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358665474599-em6rlbrau1rpcckusfm173daqi8p7vr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe2ekNET2ssERfZuK9PLSAntuh4_-1LT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358665474599-em6rlbrau1rpcckusfm173daqi8p7vr5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "358665474599-8t3vjsmt1qums66edfa0c9lkcgj2eh8f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Parcel-Genie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

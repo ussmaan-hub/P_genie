@@ -1,0 +1,47 @@
+[
+  {
+    "CountryName": "India",
+    "CountryCode": "ex",
+    "States": [
+      {
+        "StateName": "Maharashtra",
+        "Cities": [
+          {"CityName": "Pune", "zipCode": "1212"},
+          {"CityName": "Pune", "zipCode": "1212"},
+          {"CityName": "Pune", "zipCode": "1212"}
+        ]
+      },
+      {
+        "StateName": "Kerala",
+        "Cities": [
+          {"CityName": "Pune", "zipCode": "1212"},
+          {"CityName": "Pune", "zipCode": "1212"},
+          {"CityName": "Pune", "zipCode": "1212"}
+        ]
+      }
+    ]
+  },
+  {
+    "CountryName": "Australia",
+    "CountryCode": "ex",
+
+    "States": [
+      {
+        "StateName": "Aukland",
+        "Cities": [
+          {"CityName": "Pune", "zipCode": "1212"},
+          {"CityName": "Pune", "zipCode": "1212"},
+          {"CityName": "Pune", "zipCode": "1212"}
+        ]
+      },
+      {
+        "StateName": "Melbourne",
+        "Cities": [
+          {"CityName": "Pune", "zipCode": "1212"},
+          {"CityName": "Pune", "zipCode": "1212"},
+          {"CityName": "Pune", "zipCode": "1212"}
+        ]
+      }
+    ]
+  }
+]
